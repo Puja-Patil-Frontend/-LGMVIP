@@ -1,0 +1,97 @@
+
+body {
+    margin: 0;
+    font-family: 'Luxurious Roman', cursive;
+}
+
+nav {
+    background-color:#060f4a;
+}
+
+#navbar {
+    color: rgb(225, 210, 210);
+    padding: 1px;
+    gap: 2rem;  
+}
+
+#navbar h1 {
+    text-align: center;
+}
+
+
+#form-details{
+    /* background-color: #533E85; */
+    background-image: linear-gradient(to right,rgb(49, 197, 243),violet);
+    padding: 50px 100px ;
+    top: 16%;
+    margin-right: 90%;
+    margin-left: 3%;
+    position: absolute;
+    font-size: 18px;
+    border-radius: 50px;
+}
+
+#form-details-info{
+    background-image: linear-gradient(to right,rgb(211, 166, 243),rgb(235, 158, 235));
+    padding: 50px 20px ;
+    top: 16%;
+    margin-right: 10%;
+    margin-left: 45%;
+    position: absolute;
+    font-size: 18px;
+}
+
+#form-details-info h1 {
+    color: rgb(233, 216, 216);
+    font-size: 28px;
+    background-color: #c864f4;
+    padding: 3px;
+    text-align: center;
+}
+
+#form-details h1 {
+     color: rgb(31, 24, 24);
+     font-size: 28px;
+     background-color: #e0acf9;
+     padding: 3px;
+     text-align: center;
+    }
+
+
+#field {
+   padding: 20px;
+   color: rgb(27, 23, 23);
+   justify-content: space-between;
+   display: flex;
+   
+}
+#background-img {
+    position: relative;
+}
+
+#sub {
+    background-color: #5f83f7;
+    font-size: 16px;
+    padding: 5px 15px;
+    color: rgb(242, 232, 232);
+    font-family: 'Luxurious Roman', cursive;
+    display: flex;
+}
+
+label {
+    color: rgb(22, 20, 20);
+}
+table td {
+    padding: 10px;
+}
+
+
+#col {
+    padding: 15px;
+    color: rgb(28, 26, 26);
+}
+
+#show {
+    border:5px solid #161E54;
+    color: rgb(17, 12, 12);
+}
